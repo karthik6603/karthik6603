@@ -49,7 +49,7 @@
 
 #### Databases & Tools
 
-[![Databases & Tools](https://skillicons.dev/icons?i=mysql&perline=6)](https://skillicons.dev)
+[![Databases & Tools](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://skillicons.dev)
 
 #### Design Tools
 

@@ -45,7 +45,7 @@
 
 #### Platform, Cloud & Tools
 
-[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,netlify,firebase,docker,git,github,postman,vscode&perline=6)](https://skillicons.dev)
+[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,git,github,postman,vscode&perline=6)](https://skillicons.dev)
 
 #### Databases & Tools
 

@@ -37,7 +37,7 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=cjava,js&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cJava,js&perline=6)](https://skillicons.dev)
 
 #### Development Tools, Libraries & Frameworks
 

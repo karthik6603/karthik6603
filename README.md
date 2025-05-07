@@ -1,6 +1,6 @@
 [![Hi there, I'm Deepak!](https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=30&duration=2500&pause=1000&color=0078D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Karthik!)](https://git.io/typing-svg)
 
-- I'm a web Developer 👨‍💻 and Designer 🎨
+- I'm a web Developer 👨‍💻 and Designer
 - I can build websites 🌐
 - I can also design logos 🖼️, design posters 📜 and edit videos 📺
 - I'm currently learning a lot of things 🤓

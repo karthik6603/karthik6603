@@ -63,10 +63,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+GitHub+Performance+Dashboard" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&theme=fire&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="🔥 GitHub Streak" />
 
-  <!-- Spacer -->
-  <br/><br/>
 
   <!-- GitHub Stats + Top Langs side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" height="165" alt="Stats" />

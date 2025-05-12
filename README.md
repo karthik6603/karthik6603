@@ -64,16 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" alt="Top Languages" height="165"/>
 </p>
 
-### 🧠 Featured Projects
-
-🚴‍♂️ [Crave - Food Delivery App](https://github.com/karthik6603/crave-food-delivery)  
-> Tech Stack: React, Java, MySQL, Servlets  
-> A responsive, full-stack food delivery platform with dashboards for admins, delivery agents, and partners.
-
-📌 [To-Do List App](https://github.com/karthik6603/todo-app)  
-> Tech Stack: JavaScript, Local Storage  
-> Dynamic UI with persistent task tracking via browser storage.
-
-🌤️ [Weather App](https://github.com/karthik6603/weather-app)  
-> Tech Stack: JavaScript, Axios, AccuWeather API  
-> Real-time weather updates based on geolocation.

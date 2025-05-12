@@ -58,21 +58,35 @@
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
 
-### 📊 GitHub Analytics
+### 📊 My GitHub Performance Dashboard
 
-<div align="center">
+<p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+GitHub+Performance+Dashboard" />
+  <!-- GitHub Streak with custom fire gradient -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=FFA500&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFA500&sideNums=FFA500&currStreakNum=FF8C00"
+    height="170" 
+    alt="🔥 GitHub Streak" 
+  />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&theme=fire&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="🔥 GitHub Streak" />
+  <br/><br/>
 
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" 
+    height="165" 
+    alt="📈 GitHub Stats" 
+  />
 
-  <!-- GitHub Stats + Top Langs side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" height="165" alt="Languages" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" 
+    height="165" 
+    alt="💻 Top Languages" 
+  />
 
-</div>
+</p>
+
 
 ### 🧩 Fun Fact
 

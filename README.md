@@ -56,11 +56,10 @@
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- Typing animation intro -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+GitHub+Performance+Dashboard" />
 
   <!-- GitHub Streak -->

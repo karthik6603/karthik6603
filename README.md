@@ -54,3 +54,11 @@
 #### Design Tools
 
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react" height="165"/>
+</p>

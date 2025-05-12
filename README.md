@@ -69,22 +69,6 @@
     alt="🔥 GitHub Streak" 
   />
 
-
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" 
-    height="165" 
-    alt="📈 GitHub Stats" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" 
-    height="165" 
-    alt="💻 Top Languages" 
-  />
-
 </p>
 
 

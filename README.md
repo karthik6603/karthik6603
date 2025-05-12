@@ -7,7 +7,7 @@
 
 <br/>
 
-### Connect with me
+## Connect with me
 
 <a href="https://twitter.com/Karthik_6603" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48"></img>
@@ -33,25 +33,25 @@
 
 <br/>
 
-### Skills
+## Skills
 
-#### Languages
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,js&perline=6)](https://skillicons.dev)
 
-#### Development Tools, Libraries & Frameworks
+### Development Tools, Libraries & Frameworks
 
 [![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,typescript,tailwind,spring,hibernate,html,css&perline=6)](https://skillicons.dev)
 
-#### Platform, Cloud & Tools
+### Platform, Cloud & Tools
 
 [![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,git,github,postman,vscode&perline=6)](https://skillicons.dev)
 
-#### Databases & Tools
+### Databases & Tools
 
 [![Databases & Tools](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://skillicons.dev)
 
-#### Design Tools
+### Design Tools
 
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 

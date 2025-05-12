@@ -2,7 +2,7 @@
 
 - I'm a web Developer 👨‍💻 and Designer
 - I can build websites 🌐
-- I can also design logos 🖼️, design posters 📜 and edit videos 📺
+- I can also design logos 🖼️ and design posters 📜 
 - I'm currently learning a lot of things 🤓
 
 <br/>

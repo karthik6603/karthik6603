@@ -7,8 +7,14 @@
 
 <br/>
 
-## Connect with me
+### Connect with me
 
+<a href="https://linkedin.com/in/karthik-6603p" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" width="48" height="48"></img>
+</a>
+<a href="mailto:karthik.p6603@gmail.com" target="_blank">
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="48" height="48"></img>
+</a>
 <a href="https://twitter.com/Karthik_6603" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48"></img>
 </a>
@@ -21,42 +27,38 @@
 <a href="https://facebook.com/bairavaa.karthik.10 target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" width="48" height="48"></img>
 </a>
-<a href="https://linkedin.com/in/karthik-6603p" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" width="48" height="48"></img>
-</a>
+
 <a href="https://t.me/karthik6603" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-icon.svg" width="48" height="48"></img>
 </a>
-<a href="mailto:karthik.p6603@gmail.com" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="48" height="48"></img>
-</a>
+
 
 <br/>
 
-## Skills
+### Skills
 
-### Languages
+#### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,js&perline=6)](https://skillicons.dev)
 
-### Development Tools, Libraries & Frameworks
+#### Development Tools, Libraries & Frameworks
 
 [![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,typescript,tailwind,spring,hibernate,html,css&perline=6)](https://skillicons.dev)
 
-### Platform, Cloud & Tools
+#### Platform, Cloud & Tools
 
 [![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,git,github,postman,vscode&perline=6)](https://skillicons.dev)
 
-### Databases & Tools
+#### Databases & Tools
 
 [![Databases & Tools](https://skillicons.dev/icons?i=mysql,mongodb&perline=6)](https://skillicons.dev)
 
-### Design Tools
+#### Design Tools
 
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -72,7 +74,7 @@
 
 </div>
 
-## 🧩 Fun Fact
+### 🧩 Fun Fact
 
 > “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
 

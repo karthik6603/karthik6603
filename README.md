@@ -24,7 +24,7 @@
 <a href="https://threads.net/@karxthik_6" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.svg"  width="48" height="48"></img>
 </a>
-<a href="https://facebook.com/bairavaa.karthik.10 target="_blank">
+<a href="https://facebook.com/karthik6603 target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-icon.svg" width="48" height="48"></img>
 </a>
 

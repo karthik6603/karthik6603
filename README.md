@@ -69,7 +69,7 @@
     alt="🔥 GitHub Streak" 
   />
 
-  <br/><br/>
+
 
   <!-- GitHub Stats -->
   <img 
@@ -90,7 +90,7 @@
 
 ### 🧩 Fun Fact
 
->>> “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
+> “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
 
 <br/>
 

@@ -56,11 +56,23 @@
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+
+  <!-- Typing animation intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+GitHub+Performance+Dashboard" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="Streak Stats" />
+
+  <!-- Spacer -->
+  <br/><br/>
+
+  <!-- GitHub Stats + Top Langs side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik6603&show_icons=true&theme=react&hide_border=false&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik6603&layout=compact&theme=react&hide_border=false" height="165" alt="Languages" />
+
+</div>
+
 

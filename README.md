@@ -15,7 +15,7 @@
 <a href="mailto:karthik.p6603@gmail.com" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="48" height="48"></img>
 </a>
-<a href="https://twitter.com/Karthik_6603" target="_blank">
+<a href="https://twitter.com/karthik6603" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48" alt="Twitter Logo">s
 </a>
 <a href="https://instagram.com/karxthik_6" target="_blank">

@@ -7,6 +7,8 @@
 
 <br/>
 
+> “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
+
 ### Connect with me
 
 <a href="https://linkedin.com/in/karthik-6603p" target="_blank">
@@ -57,26 +59,6 @@
 
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
-
-### 📊 My GitHub Performance Dashboard
-
-<p align="center">
-
-  <!-- GitHub Streak with custom fire gradient -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=karthik6603&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=FFA500&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFA500&sideNums=FFA500&currStreakNum=FF8C00"
-    height="170" 
-    alt="🔥 GitHub Streak" 
-  />
-
-</p>
-
-
-### 🧩 Fun Fact
-
-> “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00F7FF&section=footer"/>

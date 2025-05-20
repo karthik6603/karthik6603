@@ -18,7 +18,7 @@
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="48" height="48"></img>
 </a>
 <a href="https://twitter.com/karthik6603" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48" alt="Twitter Logo">s
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" width="48" height="48" alt="Twitter Logo">
 </a>
 <a href="https://instagram.com/karxthik_6" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" width="48" height="48"></img>

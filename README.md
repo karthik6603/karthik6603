@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://t.me/karthik6603" target="_blank">
-	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twa-whatsapp-icon.svg" width="48" height="48"></img>
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wa-whatsapp-icon.svg" width="48" height="48"></img>
 </a>
 
 

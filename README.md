@@ -9,7 +9,7 @@
 
 > “Trust the process. The code, the bugs, the late nights — it all adds up to growth.”  
 
-### Connect with me!
+### Connect with me! and work
 
 <a href="https://linkedin.com/in/karthik-6603p" target="_blank">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" width="48" height="48"></img>

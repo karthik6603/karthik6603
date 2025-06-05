@@ -49,7 +49,7 @@
 
 #### Development Tools, Libraries & Frameworks
 
-[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,typescript,tailwind,spring,hibernate,html,css&perline=6)](https://skillicons.dev)
+[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,spring,hibernate,html,css&perline=6)](https://skillicons.dev)
 
 #### Platform, Cloud & Tools
 

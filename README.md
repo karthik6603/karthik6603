@@ -61,7 +61,7 @@
 
 #### Design Tools
 
-[![Languages](https://skillicons.dev/icons?i=ps,ai,figma,lottie &perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ps,ai,figma &perline=6)](https://skillicons.dev)
 
 
 <p align="center">

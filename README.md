@@ -7,7 +7,7 @@
 
 <br/>
 
-> “Trust the process.”  
+> “Trust the process!”  
 
 ### Connect with me! and work
 

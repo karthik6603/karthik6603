@@ -53,7 +53,7 @@
 
 #### Platform, Cloud & Tools
 
-[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,git,github,postman,terraform,vscode&perline=6)](https://skillicons.dev)
+[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,git,github,postman,terraform,ansible,vscode&perline=6)](https://skillicons.dev)
 
 #### Databases & Tools
 

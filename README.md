@@ -63,6 +63,12 @@
 
 [![Languages](https://skillicons.dev/icons?i=ps,ai,figma&perline=6)](https://skillicons.dev)
 
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karthik6603&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00F7FF&section=footer"/>

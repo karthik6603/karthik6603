@@ -69,6 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=karthik6603&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/karthik6603?theme=dark&font=baloo&ext=activity)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00F7FF&section=footer"/>

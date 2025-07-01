@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/karthik6603?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/karthik6603?theme=dark&font=baloo&ext=problemsSolved" alt="LeetCode Stats" />
 </p>
 
 <p align="center">

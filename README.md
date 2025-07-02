@@ -66,7 +66,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthik6603&theme=fire&hide_border=false&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=karthik6603&theme=highcontrast&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&hide_border=false&border_radius=5" />
 </p>
 
 <p align="center">

@@ -1,10 +1,12 @@
 [![Hi there, I'm Karthik!](https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=30&duration=2500&pause=1000&color=0078D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Karthik)](https://git.io/typing-svg)
 
-- 🌟 Crafting Code, Systems, and Art
-- I’m a Software Developer building pixel-perfect websites from scratch with React, Next.js, and Java—no no-code platforms, just pure coding magic.
-- ⚙️ A DevOps Enthusiast, I orchestrate robust systems using Docker, Kubernetes, and Terraform to ensure seamless scalability.
-- 🎨 I design eye-catching logos and posters with Figma, blending creativity with tech.
-- 🚀 Always diving into new tech adventures—let’s create something groundbreaking together!
+**Crafting Code, Systems, and Art**  
+- 💻 I’m a **Software Developer** building **pixel-perfect websites** from scratch with **React**, **Next.js**, and **Java**—no no-code platforms, just pure coding magic.  
+- ⚙️ A **DevOps Enthusiast**, I orchestrate robust systems using **Docker**, **Kubernetes**, and **Terraform** for seamless scalability.  
+- 🎨 I design **eye-catching logos** and **posters** with **Figma**, blending creativity with tech.  
+- 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
+
+> <span style="color: #FF4500; font-weight: bold; font-style: italic;">“Trust the process!”</span>
 
 <br/>
 

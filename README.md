@@ -8,6 +8,9 @@
 - 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
 
 > **🔥 Trust the process!**
+<p align="center">
+  <b><span style="font-size: 22px; background: linear-gradient(to right, #ff6a00, #ff0000); -webkit-background-clip: text; color: transparent;">🔥 Trust the process!</span></b>
+</p>
 <br/>
 
 ### Connect with me! and work

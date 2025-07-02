@@ -8,7 +8,7 @@
 
 <br/>
 
-> <span style="color: #FF4500; font-weight: bold; font-style: italic;">“Trust the process!”</span>
+> **🔥 Trust the process!**
 
 <br/>
 

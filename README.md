@@ -6,6 +6,8 @@
 - 🎨 I design **eye-catching logos** and **posters** with **Figma**, blending creativity with tech.  
 - 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
 
+<br/>
+
 > <span style="color: #FF4500; font-weight: bold; font-style: italic;">“Trust the process!”</span>
 
 <br/>

@@ -8,7 +8,6 @@
 - 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
 
 > **🔥 Trust the process!**
-
 <br/>
 
 ### Connect with me! and work

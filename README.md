@@ -10,8 +10,6 @@
 
 <br/>
 
-> “Trust the process!”  
-
 ### Connect with me! and work
 
 <a href="https://linkedin.com/in/karthik-6603p" target="_blank">

@@ -45,15 +45,15 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,js&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,typescript&perline=6)](https://skillicons.dev)
 
-#### Development Tools, Libraries & Frameworks
+#### Development Frameworks & Libraries 
 
-[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,spring,hibernate,html,css&perline=6)](https://skillicons.dev)
+[![Development Tools, Libraries & Frameworks](https://skillicons.dev/icons?i=react,nextjs,spring,hibernate,tailwind,html,css&perline=6)](https://skillicons.dev)
 
 #### Platform, Cloud & Tools
 
-[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,nginx,docker,kubernetes,jenkins,git,github,postman,terraform,ansible,vscode&perline=6)](https://skillicons.dev)
+[![Platform, Cloud & Deployment](https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,ansible,nginx,prometheus,grafana,git,github,gitlab,postman,vscode,eclipse,intellij&perline=6)](https://skillicons.dev)
 
 #### Databases & Tools
 

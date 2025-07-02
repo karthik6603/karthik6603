@@ -1,6 +1,6 @@
 [![Hi there, I'm Karthik!](https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=600&size=30&duration=2500&pause=1000&color=0078D7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Karthik)](https://git.io/typing-svg)
 
-*Crafting&nbsp;&nbsp;&nbsp;Code,&nbsp;&nbsp;&nbsp;Systems,&nbsp;&nbsp;&nbsp;and&nbsp;&nbsp;&nbsp;Art*  
+*Crafting&nbsp;Code,&nbsp;Systems,&nbsp;and&nbsp;Art*  
 
 - 💻 I’m a **Software Developer** building **pixel-perfect websites** from scratch with **React**, **Next.js**, and **Java**.  
 - ⚙️ A **DevOps Enthusiast**, I orchestrate robust systems using **Docker**, **Kubernetes**, and **Terraform** for seamless scalability.  

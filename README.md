@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/karthik6603?ext=heatmap&theme=dark&font=baloo&border=1&show_stats=true&bg=000000&animation=true" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/karthik6603?ext=heatmap&theme=dark&font=baloo&border=1&hide_border=false&border_radius=5&show_stats=true&bg=000000&animation=true" alt="LeetCode Stats" />
 </p>
 
 <p align="center">

@@ -4,7 +4,7 @@
 
 - 💻 I’m a **Software Developer** building **pixel-perfect websites** from scratch with **React**, **Next.js**, and **Java**.  
 - ⚙️ A **DevOps Enthusiast**, I orchestrate robust systems using **Docker**, **Kubernetes**, **Jenkins"" and **Terraform** for seamless scalability to the system.  
-- 🎨 I design **eye-catching logos** and **posters** with **Photoshop**, blending creativity with tech.  
+- 🎨 I design **eye-catching logos** and **posters** with **Photoshop** and **Illustrator**, blending creativity with tech.  
 - 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
 
 > **🔥 Trust the process!**

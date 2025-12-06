@@ -46,7 +46,7 @@
 
 #### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,js,typescript&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,typescript&perline=6)](https://skillicons.dev)
 
 #### Development Frameworks & Libraries 
 

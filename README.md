@@ -2,7 +2,7 @@
 
 *Crafting&nbsp;Code,&nbsp;Systems,&nbsp;and&nbsp;Art*
 
-- 💻 I’m a **Java Full Stack Developer and a Software engineer** building **pixel-perfect visually appealing websites** from scratch with **Reactjs**, **SpringBoot**, and **Java**.  
+- 💻 I’m a **Java Developer and a Software engineer** building **pixel-perfect visually appealing websites** from scratch with **Reactjs**, **SpringBoot**, and **Java**.  
 - ⚙️ A **DevOps and cloud Enthusiast**, I orchestrate robust systems using **Docker**, **Kubernetes**, **Jenkins** and **Terraform** for seamless scalability to the system.  
 - 🎨 I design **eye-catching logos** and **posters** with **Photoshop** and **Illustrator**, blending creativity with tech.  
 - 🚀 Always diving into new tech adventures—**let’s create something groundbreaking together!**  
